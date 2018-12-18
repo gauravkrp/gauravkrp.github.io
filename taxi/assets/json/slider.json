@@ -1,4 +1,0 @@
-sliderArray = [
- {img: 'assets/img/1.jpg', alt: '', text: 'some random taxi booking text 1'},
- {img: 'assets/img/2.jpg', alt: '',  text: 'some random taxi booking text 2'}
-];
